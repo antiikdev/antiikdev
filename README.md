@@ -1,8 +1,8 @@
 ### 👋 Hello, I’m @antiikdev
 
 ## Topics that I'm interested
-- Solving everyday problems (e.g. from my repositories: math of pandemic, area calculations)
-- Application and game development
+- Solving everyday problems with code (e.g. from my repositories: math of pandemic, area size calculations)
+- Application, cloud and game development
 - Studying mathematical computer science as a hobby
 
 ## My languages
