@@ -2,13 +2,14 @@
 
 ## Topics that I'm interested
 - Solving everyday problems with code (e.g. from my repositories: math of pandemic)
-- Working and aiming to work with application, web, cloud and game development
+- My personal projects and aiming to work in future with applications, web, cloud and game development
 - Hobbies: Studying Mathematical Information Technology specialization in Software and Telecommunication Technology
 
-## My languages 
-- C#
-- Java
-- C and C++
+## My languages (knowledge level)
+- Java (good, most experience)
+- C# (good)
+- C and C++ (some)
+- Javascript and Python (little)
 
 ## 📫 Contact information
 - antiikdev@gmail.com
