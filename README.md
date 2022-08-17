@@ -10,7 +10,7 @@ game development
 - Hobbies: studying Mathematical Information Technology specialization
 in software and telecommunication technologies
 
-## My languages (knowledge level)
+## :books: My languages (knowledge level)
 - Java (good, most experience)
 - C# (good)
 - C and C++ (little)
