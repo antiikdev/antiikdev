@@ -1,6 +1,6 @@
-### 👋 Hello, I’m @antiikdev
+### :raised_hand_with_fingers_splayed::grinning: Hello, I’m @antiikdev
 
-## Topics that I'm interested
+## :cupid: Topics that I'm interested
 - Mostly random code tuning, but sometimes solving everyday problems with code.
 Examples from my repositories:
 [small simulation with the math of pandemic](https://github.com/antiikdev/pandemic),
@@ -14,8 +14,9 @@ in software and telecommunication technologies
 - Java (good, most experience)
 - C# (good)
 - C and C++ (little)
-- Javascript and Python (little)
+- Python (little)
+- Javascript (little)
 
-## 📫 Contact information
+## :mailbox: Contact information
 - antiikdev@gmail.com
 - www.antiik.dev
