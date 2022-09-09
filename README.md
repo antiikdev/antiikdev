@@ -16,6 +16,7 @@ in software and telecommunication technologies
 - C and C++ (little)
 - Python (little)
 - Javascript (little)
+- Smalltalk (little)
 
 ## :mailbox: Contact information
 - antiikdev@gmail.com
