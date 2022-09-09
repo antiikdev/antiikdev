@@ -10,13 +10,14 @@ game development
 - Hobbies: studying mathematical information technology specialization
 in software and telecommunication technologies
 
-## :books: My languages (knowledge level)
-- Java (okay, most experience)
-- C# (okay, second most)
-- C and C++ (little)
-- Python (little)
-- Javascript (little)
-- Smalltalk (little)
+## :books: My languages
+Knowledge level in rank order (most knowledge is first)
+- Java
+- C#
+- C and C++
+- Python
+- Javascript
+- Smalltalk
 
 ## :mailbox: Contact information
 - antiikdev@gmail.com
