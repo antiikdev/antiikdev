@@ -7,8 +7,6 @@ Examples from my repositories:
 [Caesar Chipher cryptography](https://github.com/antiikdev/caesar-chipher)
 - My personal projects relate to applications, web, cloud and even
 game development
-- Hobbies: studying mathematical information technology specialization
-in software and telecommunication technologies
 
 ## :books: My languages
 Knowledge level in rank order (most knowledge is first)
