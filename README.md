@@ -12,8 +12,10 @@ game development
 Knowledge level in rank order (most knowledge is first)
 - Java
 - C#
-- C and C++
+- C
+- C++
 - Python
+- x86-64 Assembly
 - Javascript
 - Smalltalk
 
