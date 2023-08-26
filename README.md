@@ -2,11 +2,11 @@
 
 ## :cupid: Topics that I'm interested
 - Mostly random code tuning, but sometimes solving everyday problems with code.
-Examples from my repositories:
+Example projects from my repositories:
 [small simulation of pandemic math](https://github.com/antiikdev/pandemic),
 [Caesar Chipher cryptography](https://github.com/antiikdev/caesar-chipher)
 - My personal projects relate to applications, web, cloud and even
-game development
+game development.
 
 ## :books: My languages
 Knowledge level in rank order (most knowledge is first)
@@ -15,7 +15,7 @@ Knowledge level in rank order (most knowledge is first)
 - C
 - C++
 - Python
-- x86-64 Assembly
+- Assembly (GNU AT&T x86-64)
 - Javascript
 - Smalltalk
 
