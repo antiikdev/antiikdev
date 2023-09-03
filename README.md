@@ -1,12 +1,14 @@
 ### :raised_hand_with_fingers_splayed::grinning: Hello, I’m @antiikdev
 
 ## :cupid: Topics that I'm interested
-- Mostly random code tuning, but sometimes solving everyday problems with code.
-Example projects from my repositories:
-[small simulation of pandemic math](https://github.com/antiikdev/pandemic),
-[Caesar Chipher cryptography](https://github.com/antiikdev/caesar-chipher)
-- My personal projects relate to applications, web, cloud and even
-game development.
+- Code tuning as a hobby, including small applications, web development,
+games, etc. what comes to mind.
+- Example projects from my repositories:
+  - [Small simulation of pandemic math (Java)](https://github.com/antiikdev/pandemic)
+  - [Software to store research participant information (Java)](https://github.com/antiikdev/ohj2)
+  - [Assembly x64 (MASM) and C/C++ small practice projects](https://github.com/antiikdev/Assembly/tree/master)
+  - [Clicker game using Monogame C# framework](https://github.com/antiikdev/ohj1ht)
+  - [Caesar Chipher cryptography (Java)](https://github.com/antiikdev/caesar-chipher)
 
 ## :books: My languages
 Knowledge level in rank order (most knowledge is first)
@@ -15,7 +17,7 @@ Knowledge level in rank order (most knowledge is first)
 - C
 - C++
 - Python
-- Assembly (GNU AT&T x86-64)
+- Assembly (GNU AT&T x86-64 and MASM "Intel" x64)
 - Javascript
 - Smalltalk
 
