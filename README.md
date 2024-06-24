@@ -14,13 +14,14 @@
 ## :books: My languages
 Knowledge level in rank order (most knowledge is first)
 - Java
-- C#
 - Python
 - Javascript
-- C
-- C++
-- Assembly (GNU AT&T x86-64 and MASM "Intel" x64)
+- C#
 - SQL
+- C++
+- C
+- Assembly (GNU AT&T x86-64 and MASM "Intel" x64)
+- Ruby
 - Smalltalk
 
 ## :mailbox: Contact information
